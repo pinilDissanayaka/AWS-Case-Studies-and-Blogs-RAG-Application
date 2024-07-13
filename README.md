@@ -28,6 +28,6 @@ Contributions are welcome! Please open an issue or submit a pull request.
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Acknowledgements
-[LangChain](https://www.langchain.com/)
-[FAISS](https://faiss.ai/index.html)
-[Hugging Face](https://huggingface.co/)
+- [LangChain](https://www.langchain.com/)
+- [FAISS](https://faiss.ai/index.html)
+- [Hugging Face](https://huggingface.co/)
